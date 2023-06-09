@@ -13,7 +13,7 @@ fi
 export OPENMP_ROOT=$COMPILERROOT
 
 ## Set the Paths for OpenMPI ##
-export OPENMPIROOT=/mnt/share/users/manoj/OpenFoam/Debug_openfoam/openmpi_installl
+export OPENMPIROOT=/mnt/share/users/manoj/OpenFoam/Debug_openfoam/openmpi_install
 export OPENFOAMROOT=$PWD
 
 #### exporting the env ####
